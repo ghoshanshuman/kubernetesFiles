@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: addressbook-container
-        image: ghoshanshuman/tcsapp
+        image: ghoshanshuman/tcsapp:13
         ports:
         - containerPort: 8080
